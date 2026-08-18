@@ -1,5 +1,17 @@
 Olá! Eu sou a Gabriela Barbosa!
 
+Atualemente, sou uma estudante de Ciência da Computação na UNIFacef!
+
+<br>
+
+* 🎮 **Amo jogar:** A exploração de tantos mundos além, tantas histórias!
+* 📙 **Eu adoro ler:** Esta é mais uma maneira de explorar reinos e viver tantas vidas diferentes!
+* 🎧 **Acompanhada:** E nada disso está completo sem uma boa musiquinha de fundo!
+* 💻 **Foco:** Atualmente estou mais focada em aprimorar minhas habilidades em desenvolvimento.
+
+<br>
+
+
 [![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Biba-bc&layout=compact&theme=dracula&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
 
 <div style="display: inline_block"><br>
@@ -18,4 +30,10 @@ Olá! Eu sou a Gabriela Barbosa!
   <a href="https://wa.me/35999919598" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/bibis.carrijo/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </div>
+
+##
+
+![Snake animation](https://raw.githubusercontent.com/Biba-bc/Biba-bc/output/github-contribution-grid-snake.svg)
+
+##
 
