@@ -2,7 +2,7 @@ Olá! Eu sou a Gabriela Barbosa ☀️
 
 Atualmente, sou uma estudante de Ciência da Computação na UNIFacef! 🎓
 
-☀️ **Confira meu Portfólio:** [seu-portfolio.com](https://seu-link-aqui.com)
+☀️ **Confira meu Portfólio:** [Gab´s-Porfolio.com](https://seu-link-aqui.com)
 
 <br>
 
