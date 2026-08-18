@@ -11,7 +11,7 @@ Olá! Eu sou a Gabriela Barbosa!
   ##
  
 <div> 
-  <a href = "mailto:carrijobibi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:carrijobibi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-carrijo-535b73320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/35999919598" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.instagram.com/bibis.carrijo/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
