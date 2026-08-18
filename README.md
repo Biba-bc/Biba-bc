@@ -1,4 +1,4 @@
-Olá! Eu sou a Gabriela Barbosa!
+Olá! Eu sou a Gabriela Barbosa ☀️
 
 Atualemente, sou uma estudante de Ciência da Computação na UNIFacef!
 
