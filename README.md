@@ -1,5 +1,7 @@
 Olá! Eu sou a Gabriela Barbosa!
 
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Biba-bc&layout=compact&theme=dracula&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Biba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
