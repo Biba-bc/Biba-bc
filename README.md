@@ -33,8 +33,8 @@ Atualmente, sou uma estudante de Ciência da Computação na UNIFacef! 🎓
   <a href="https://www.instagram.com/bibis.carrijo/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
 </div>
 
-##
+<!--##
 
-![Snake animation](https://raw.githubusercontent.com/Biba-bc/Biba-bc/output/github-contribution-grid-snake.svg)
+[Snake animation](https://raw.githubusercontent.com/Biba-bc/Biba-bc/output/github-contribution-grid-snake.svg)
 
-##
+##-->
